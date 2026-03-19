@@ -1,0 +1,5 @@
+{
+  "name": "Vela Smartwatch OS Prototype",
+  "description": "A high-fidelity interactive UI prototype for the Vela smartwatch, featuring a 2.06-inch rectangular display (410x502), health tracking, and system settings.",
+  "requestFramePermissions": []
+}
