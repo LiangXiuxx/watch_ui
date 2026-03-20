@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Vela Smartwatch OS
 
-# Run and deploy your AI Studio app
+高保真交互式智能手表 UI 原型，模拟 2.06 英寸矩形屏幕（410x502），包含心率监测、电池管理、智能家居等完整功能。
 
-This contains everything you need to run your app locally.
+## 本地运行
 
-View your app in AI Studio: https://ai.studio/apps/2db4a836-e8af-4fb5-83d3-855c743a0db5
+**环境要求：** Node.js
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+1. 安装依赖：
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. 启动开发服务器：
    `npm run dev`
